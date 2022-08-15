@@ -14,5 +14,6 @@ Some of my favorite StackExchange questions:
 * [select code based on cfg attribute not true [rust]](https://stackoverflow.com/questions/71699737/select-code-based-on-cfg-attribute-not-true-rust/71699738#71699738) (_Question + Answer_)
 * [find all hard linked files between two directories](https://unix.stackexchange.com/questions/275868/find-all-hard-linked-files-between-two-directories) (_Question + Answer_)
 * [On Linux, how do I the check CPU affinity of a process and its threads?](https://serverfault.com/questions/462454/on-linux-how-do-i-the-check-cpu-affinity-of-a-process-and-its-threads/462455#462455) (_Question + Answer_)
+* [What Ethernet twisted pair cable is best with a particular Ethernet switch](https://serverfault.com/questions/1089864/what-ethernet-twisted-pair-cable-is-best-with-a-particular-ethernet-switch) (_Question_)
 
 My [StackExchange profile](https://stackexchange.com/users/216253/jamesthomasmoon?tab=top).
