@@ -8,16 +8,15 @@ I am a software engineer.  Most of my experience is within testing and tools.
 
 <!-- table of contents created by VS Code extension Markdown All In One -->
 
-- [Work Samples](#work-samples)
+- [Open-Source Work Samples](#open-source-work-samples)
   - [github Projects](#github-projects)
   - [StackExchange](#stackexchange)
-- [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
-  - [Elsewhere](#elsewhere)
-- [Pull Requests](#pull-requests)
+  - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
+  - [Pull Requests](#pull-requests)
 
 ---
 
-## Work Samples
+## Open-Source Work Samples
 
 The following lists are pubicly available samples of my work:
 
@@ -48,19 +47,16 @@ Some of my favorite StackExchange questions:
 
 - [clap-rs/clap how to control OPTIONS listing ordering? #3593](https://github.com/clap-rs/clap/discussions/3593)
 
-## Bug Reports and Feature Requests
+### Bug Reports and Feature Requests
 
 - [`gerbera/gerbera` confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module #2675](https://github.com/gerbera/gerbera/issues/2675)
 - [`yt-dlp/yt-dlp` set Windows NTFS file datetime-related attributes from other available information #3514](https://github.com/yt-dlp/yt-dlp/issues/3514)
 - [`jeffparsons/rangemap` [Feature Request] allow optional "no coalescing" #42](https://github.com/jeffparsons/rangemap/issues/42)
 - [`yuk7/AlpineWSL` installer should set Name alpine versioned, e.g. "Alpine-3.15.0" #26](https://github.com/yuk7/AlpineWSL/issues/26)
 - [`Entware/Entware` opkg program does not allow changing lockfile location; cannot run if /opt is readonly #716](https://github.com/Entware/Entware/issues/716)
-
-### Elsewhere
-
 - [A forum bug report for Synology DSM](https://community.synology.com/enu/forum/1/post/155131)
 
-## Pull Requests
+### Pull Requests
 
 My meager bit of Pull Requests submitted.
 
