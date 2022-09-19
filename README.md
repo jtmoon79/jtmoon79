@@ -2,14 +2,14 @@
 # Hello
 
 I am James Thomas Moon.
-I am a software engineer.  Most of my experience is within testing and tools.
+I am a software engineer. Most of my experience is within testing and tools.
 
 ---
 
 <!-- table of contents created by VS Code extension Markdown All In One -->
 
 - [Open-Source Work Samples](#open-source-work-samples)
-  - [github Projects](#github-projects)
+  - [My github Projects](#my-github-projects)
   - [StackExchange](#stackexchange)
   - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
   - [Pull Requests](#pull-requests)
@@ -18,14 +18,18 @@ I am a software engineer.  Most of my experience is within testing and tools.
 
 ## Open-Source Work Samples
 
-The following lists are pubicly available samples of my work:
+The following lists are pubicly available examples of my work:
 
-### github Projects
+### My github Projects
 
-- [`jtmoon79/goto_http_redirect_server` The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network.](https://github.com/jtmoon79/goto_http_redirect_server)
-- [`jtmoon79/coverlovin2` Add music album images to your music file directories.](https://github.com/jtmoon79/coverlovin2)
-- [`jtmoon79/PythonEmbed4Win` Easily create a standalone Python embed.zip local environment in Windows.](https://github.com/jtmoon79/PythonEmbed4Win)
-- [`jtmoon79/openssh-latest-build-install.md` Build, install, and run the latest OpenSSH Server as a systemd service.](https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a)
+- [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher) _Speedily search and sort many syslog files by datetime._
+- [`jtmoon79/goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server) _The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network._
+- [`jtmoon79/coverlovin2`](https://github.com/jtmoon79/coverlovin2) _Add music album images to your music file directories._
+- [`jtmoon79/PythonEmbed4Win`](https://github.com/jtmoon79/PythonEmbed4Win) _Easily create a standalone Python embed.zip local environment in Windows._
+- [`jtmoon79/openssh-latest-build-install.md`](https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a) _Build, install, and run the latest OpenSSH Server as a systemd service._
+- [`jtmoon79/dotfiles`](https://github.com/jtmoon79/dotfiles) _Putting the . in ._ Miscellaneous user dot files for consistent user shell environments. Also a place to store various small scripts for various tasks.
+
+(My [github profile](https://stackexchange.com/users/216253/jamesthomasmoon?tab=top)).
 
 ### StackExchange
 
@@ -42,6 +46,7 @@ Some of my favorite StackExchange questions:
 - [find all hard linked files between two directories](https://unix.stackexchange.com/questions/275868/find-all-hard-linked-files-between-two-directories) (_Question + Answer_)
 - [On Linux, how do I the check CPU affinity of a process and its threads?](https://serverfault.com/questions/462454/on-linux-how-do-i-the-check-cpu-affinity-of-a-process-and-its-threads/462455#462455) (_Question + Answer_)
 - [What Ethernet twisted pair cable is best with a particular Ethernet switch](https://serverfault.com/questions/1089864/what-ethernet-twisted-pair-cable-is-best-with-a-particular-ethernet-switch) (_Question_)
+- [error [E0716]: temporary value dropped while borrowed (rust)](https://stackoverflow.com/questions/71626083/) (_Question_)
 
 (My [StackExchange profile](https://stackexchange.com/users/216253/jamesthomasmoon?tab=top)).
 
@@ -49,6 +54,9 @@ Some of my favorite StackExchange questions:
 
 ### Bug Reports and Feature Requests
 
+Some bug reports and feature requests I have made:
+
+- [`pypa/pipenv` pipenv install fails if subdirectory cannot be traversed #4906](https://github.com/pypa/pipenv/issues/4906)
 - [`gerbera/gerbera` confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module #2675](https://github.com/gerbera/gerbera/issues/2675)
 - [`yt-dlp/yt-dlp` set Windows NTFS file datetime-related attributes from other available information #3514](https://github.com/yt-dlp/yt-dlp/issues/3514)
 - [`jeffparsons/rangemap` [Feature Request] allow optional "no coalescing" #42](https://github.com/jeffparsons/rangemap/issues/42)
@@ -60,4 +68,6 @@ Some of my favorite StackExchange questions:
 
 My meager bit of Pull Requests submitted.
 
+- 
 - [doc clarify statics may leak #184](https://github.com/Stebalien/tempfile/pull/184)
+- [emc-isilon/pike commits](https://github.com/emc-isilon/pike/commits/master?author=jtmoon79)
