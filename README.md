@@ -72,6 +72,6 @@ Some bug reports and feature requests I have made:
 
 My meager bit of Pull Requests submitted.
 
-- 
-- [doc clarify statics may leak #184](https://github.com/Stebalien/tempfile/pull/184)
-- [emc-isilon/pike commits](https://github.com/emc-isilon/pike/commits/master?author=jtmoon79)
+- [`NeilGirdhar/ipromise` Readme tools samples #9](https://github.com/NeilGirdhar/ipromise/pull/9)
+- [`Stebalien/tempfile` doc clarify statics may leak #184](https://github.com/Stebalien/tempfile/pull/184)
+- [`emc-isilon/pike` commits](https://github.com/emc-isilon/pike/commits/master?author=jtmoon79)
