@@ -22,16 +22,16 @@ The following lists are pubicly available examples of my work:
 
 ### My github Projects
 
-- [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher) _Speedily search and sort many syslog files by datetime._
-- [`jtmoon79/goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server) _The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network._
-- [`jtmoon79/coverlovin2`](https://github.com/jtmoon79/coverlovin2) _Add music album images to your music file directories._
-- [`jtmoon79/PythonEmbed4Win`](https://github.com/jtmoon79/PythonEmbed4Win) _Easily create a standalone Python embed.zip local environment in Windows._
-- [`jtmoon79/openssh-latest-build-install.md`](https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a) _Build, install, and run the latest OpenSSH Server as a systemd service._
-- [`jtmoon79/dotfiles`](https://github.com/jtmoon79/dotfiles) _Putting the . in ._ Miscellaneous user dot files for consistent user shell environments. Also a place to store various small scripts for various tasks.
-
-(My [github profile](https://stackexchange.com/users/216253/jamesthomasmoon?tab=top)).
+- <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg"/> [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher)<br/>_Speedily search and sort many syslog files by datetime._
+- <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg"/> [`jtmoon79/goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server)<br/>_The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network._
+- <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg"/> [`jtmoon79/coverlovin2`](https://github.com/jtmoon79/coverlovin2)<br/>_Add music album images to your music file directories._
+- <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/powershell.svg"/> <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg"/> [`jtmoon79/PythonEmbed4Win`](https://github.com/jtmoon79/PythonEmbed4Win)<br/>_Easily create a standalone Python embed.zip local environment in Windows._
+- <img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/openbsd.svg"/> [`jtmoon79/openssh-latest-build-install.md`](https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a)<br/>_Build, install, and run the latest OpenSSH Server as a systemd service._
+- <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg"/> [`jtmoon79/dotfiles`](https://github.com/jtmoon79/dotfiles)<br/>_Putting the . in ._<br/>Miscellaneous user dot files for consistent user shell environments. Also a place to store various small scripts for various tasks.
 
 ### StackExchange
+
+<a href="https://stackexchange.com/users/216253/jamesthomasmoon1979"><img src="https://stackexchange.com/users/flair/216253.png" width="208" height="58" alt="profile for JamesThomasMoon1979 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for JamesThomasMoon1979 on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 Some of my favorite StackExchange questions:
 
