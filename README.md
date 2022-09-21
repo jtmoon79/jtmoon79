@@ -23,6 +23,7 @@ The following lists are pubicly available examples of my work:
 ### My github Projects
 
 - <img height="10" width="10" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher)<br/>_Speedily search and sort many syslog files by datetime._
+- <img height="10" width="10" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/si_trace_print`](https://github.com/jtmoon79/si_trace_print)<br/>_stack indented trace printing; a rust library to print messages indented to stack depth optionally preceded by the function name._
 - <img height="10" width="10" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server)<br/>_The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network._
 - <img height="10" width="10" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/coverlovin2`](https://github.com/jtmoon79/coverlovin2)<br/>_Add music album images to your music file directories._
 - <img height="10" width="10" src="https://api.iconify.design/simple-icons/powershell.svg?color=lightblue"/> <img height="10" width="10" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/PythonEmbed4Win`](https://github.com/jtmoon79/PythonEmbed4Win)<br/>_Easily create a standalone Python embed.zip local environment in Windows._
