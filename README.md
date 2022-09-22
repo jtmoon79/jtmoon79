@@ -13,6 +13,7 @@ I am a software engineer. Most of my experience is within testing and tools.
   - [StackExchange](#stackexchange)
   - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
   - [Pull Requests](#pull-requests)
+- [Contributing to Open Source](#contributing-to-open-source)
 
 ---
 
@@ -76,3 +77,11 @@ My meager handful of github Pull Requests merged.
 - [`NeilGirdhar/ipromise` _Readme tools samples #9_](https://github.com/NeilGirdhar/ipromise/pull/9)
 - [`Stebalien/tempfile` _doc clarify statics may leak #184_](https://github.com/Stebalien/tempfile/pull/184)
 - [`emc-isilon/pike` various commits](https://github.com/emc-isilon/pike/commits/master?author=jtmoon79)
+
+## Contributing to Open Source
+
+- [opencollective.com](https://opencollective.com/james-thomas-moon)
+- [ko-fi](https://ko-fi.com/jamesthomasmoon85055)
+- see my _Sponsors_ section on github
+
+Among many other software projects and organizations that I have voluntarily donated!
