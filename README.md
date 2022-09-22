@@ -1,8 +1,9 @@
 <!-- omit in toc -->
 # Hello
 
-I am James Thomas Moon.
-I am a software engineer. Most of my experience is within testing and tools.
+I am James Thomas Moon. 👋
+I am a software engineer. 🤓
+Most of my experience is within testing and tools. 👷
 
 ---
 
