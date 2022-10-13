@@ -67,21 +67,21 @@ My favorite github forum posts:
 
 Some bug reports and feature requests I have made:
 
-- [`pypa/pipenv` _pipenv install fails if subdirectory cannot be traversed #4906_](https://github.com/pypa/pipenv/issues/4906)
-- [`gerbera/gerbera` _confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module #2675_](https://github.com/gerbera/gerbera/issues/2675)
-- [`yt-dlp/yt-dlp` _set Windows NTFS file datetime-related attributes from other available information #3514_](https://github.com/yt-dlp/yt-dlp/issues/3514)
-- [`jeffparsons/rangemap` _[Feature Request] allow optional "no coalescing" #42_](https://github.com/jeffparsons/rangemap/issues/42)
-- [`yuk7/AlpineWSL` _installer should set Name alpine versioned, e.g. "Alpine-3.15.0" #26_](https://github.com/yuk7/AlpineWSL/issues/26)
-- [`Entware/Entware` _opkg program does not allow changing lockfile location; cannot run if /opt is readonly #716_](https://github.com/Entware/Entware/issues/716)
-- [`microsoft/WSL` _How to update the WSL2 kernel on current Windows 10 #5650_](https://github.com/microsoft/WSL/issues/5650#issuecomment-933138034)
+- [`pypa/pipenv` Issue #4906 _pipenv install fails if subdirectory cannot be traversed_](https://github.com/pypa/pipenv/issues/4906)
+- [`gerbera/gerbera` Issue #2675 *confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module*](https://github.com/gerbera/gerbera/issues/2675)
+- [`yt-dlp/yt-dlp` Issue #3514 _set Windows NTFS file datetime-related attributes from other available information_](https://github.com/yt-dlp/yt-dlp/issues/3514)
+- [`jeffparsons/rangemap` Issue #42 _[Feature Request] allow optional "no coalescing"_](https://github.com/jeffparsons/rangemap/issues/42)
+- [`yuk7/AlpineWSL` Issue #26 _installer should set Name alpine versioned, e.g. "Alpine-3.15.0"_](https://github.com/yuk7/AlpineWSL/issues/26)
+- [`Entware/Entware` Issue #716 _opkg program does not allow changing lockfile location; cannot run if /opt is readonly_](https://github.com/Entware/Entware/issues/716)
+- [`microsoft/WSL` Issue #5650 _How to update the WSL2 kernel on current Windows 10_](https://github.com/microsoft/WSL/issues/5650#issuecomment-933138034)
 - [A forum bug report for Synology DSM](https://community.synology.com/enu/forum/1/post/155131)
 
 ### Pull Requests
 
 My meager handful of github Pull Requests merged.
 
-- [`NeilGirdhar/ipromise` _Readme tools samples #9_](https://github.com/NeilGirdhar/ipromise/pull/9)
-- [`Stebalien/tempfile` _doc clarify statics may leak #184_](https://github.com/Stebalien/tempfile/pull/184)
+- [`NeilGirdhar/ipromise` PR #9 _Readme tools samples_](https://github.com/NeilGirdhar/ipromise/pull/9)
+- [`Stebalien/tempfile` PR #184 _doc clarify statics may leak_](https://github.com/Stebalien/tempfile/pull/184)
 - [`emc-isilon/pike` various commits](https://github.com/emc-isilon/pike/commits/master?author=jtmoon79)
 
 ## Contributing to Open Source
