@@ -80,6 +80,7 @@ Some bug reports and feature requests I have made:
 
 My meager handful of github Pull Requests merged.
 
+- [`chronotope/chrono` PR #807 _Issue #660 whitespace exact_](https://github.com/chronotope/chrono/pull/807)
 - [`NeilGirdhar/ipromise` PR #9 _Readme tools samples_](https://github.com/NeilGirdhar/ipromise/pull/9)
 - [`Stebalien/tempfile` PR #184 _doc clarify statics may leak_](https://github.com/Stebalien/tempfile/pull/184)
 - [`emc-isilon/pike` various commits](https://github.com/emc-isilon/pike/commits/master?author=jtmoon79)
