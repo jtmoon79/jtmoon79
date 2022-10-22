@@ -61,7 +61,7 @@ Some of my favorite StackExchange questions:
 
 My favorite github forum posts:
 
-- [`clap-rs/clap` _how to control OPTIONS listing ordering? #3593_](https://github.com/clap-rs/clap/discussions/3593)
+- [`clap-rs/clap` Discussion #3593 _how to control OPTIONS listing ordering?_](https://github.com/clap-rs/clap/discussions/3593)
 
 ### Bug Reports and Feature Requests
 
