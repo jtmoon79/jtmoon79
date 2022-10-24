@@ -15,6 +15,7 @@ Most of my experience is within testing and tools. 👷
   - [github forum posts](#github-forum-posts)
   - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
   - [Pull Requests](#pull-requests)
+  - [Programming Exercises](#programming-exercises)
 - [Contributing to Open Source](#contributing-to-open-source)
 
 ---
@@ -25,13 +26,14 @@ The following lists are pubicly available examples of my work:
 
 ### My github Projects
 
-- <img height="10" width="10" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher)<br/>_Speedily search and merge many syslog files by datetime._
-- <img height="10" width="10" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/si_trace_print`](https://github.com/jtmoon79/si_trace_print)<br/>_stack indented trace printing; a rust library to print messages indented to stack depth optionally preceded by the function name._
-- <img height="10" width="10" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server)<br/>_The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network._
-- <img height="10" width="10" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/coverlovin2`](https://github.com/jtmoon79/coverlovin2)<br/>_Add music album images to your music file directories._
-- <img height="10" width="10" src="https://api.iconify.design/simple-icons/powershell.svg?color=lightblue"/> <img height="10" width="10" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/PythonEmbed4Win`](https://github.com/jtmoon79/PythonEmbed4Win)<br/>_Easily create a standalone Python embed.zip local environment in Windows._
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/debian.svg?color=maroon"/> <img height="12" width="12" src="https://api.iconify.design/simple-icons/openbsd.svg?color=lightyellow"/> [`jtmoon79/openssh-latest-build-install.md`](https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a)<br/>_Build, install, and run the latest OpenSSH Server as a systemd service._
-- <img height="10" width="10" src="https://api.iconify.design/simple-icons/gnubash.svg?color=lightblue"/> [`jtmoon79/dotfiles`](https://github.com/jtmoon79/dotfiles)<br/>_Putting the . in ._<br/>Miscellaneous user dot files for consistent user shell environments. Also a place to store various small scripts for various tasks.
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher)<br/>_Speedily search and merge many syslog files by datetime._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/si_trace_print`](https://github.com/jtmoon79/si_trace_print)<br/>_stack indented trace printing; a rust library to print messages indented to stack depth optionally preceded by the function name._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server)<br/>_The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/coverlovin2`](https://github.com/jtmoon79/coverlovin2)<br/>_Add music album images to your music file directories._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/powershell.svg?color=lightblue"/> <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/PythonEmbed4Win`](https://github.com/jtmoon79/PythonEmbed4Win)<br/>_Easily create a standalone Python embed.zip local environment in Windows._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/debian.svg?color=darkred"/> <img height="12" width="12" src="https://api.iconify.design/simple-icons/openbsd.svg?color=lightyellow"/> [`jtmoon79/openssh-latest-build-install.md`](https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a)<br/>_Build, install, and run the latest OpenSSH Server as a systemd service._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/wireguard.svg?color=red"/> [`jtmoon79/wireguard-site-to-site.sh`](https://gist.github.com/jtmoon79/c951f81f621bb87ddb60836245aca4ff)<br/>_Create a Wireguard Site-to-Site IPv4 VPN._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/gnubash.svg?color=lightblue"/> [`jtmoon79/dotfiles`](https://github.com/jtmoon79/dotfiles)<br/>_Putting the . in ._<br/>Miscellaneous user dot files for consistent user shell environments. Also a place to store various small scripts for various tasks.
 
 <!--
 Thread on linking to icons: https://github.com/simple-icons/simple-icons/discussions/6895
@@ -78,13 +80,17 @@ Some bug reports and feature requests I have made:
 
 ### Pull Requests
 
-My meager handful of github Pull Requests merged.
+My handful of github Pull Requests merged.
 
 - [`chronotope/chrono` PR #807 _Issue #660 whitespace exact_](https://github.com/chronotope/chrono/pull/807)
 - [`NeilGirdhar/ipromise` PR #9 _Readme tools samples_](https://github.com/NeilGirdhar/ipromise/pull/9)
 - [`build-trust/ockam` PR #3710 _Codespell fixes_](https://github.com/build-trust/ockam/pull/3710)
 - [`Stebalien/tempfile` PR #184 _doc clarify statics may leak_](https://github.com/Stebalien/tempfile/pull/184)
 - [`emc-isilon/pike` various commits](https://github.com/emc-isilon/pike/commits/master?author=jtmoon79)
+
+### Programming Exercises
+
+- [exercism.org programming exercises](https://exercism.org/profiles/jtmoon101) (these are kinda' easy)
 
 ## Contributing to Open Source
 
