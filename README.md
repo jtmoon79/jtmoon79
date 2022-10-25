@@ -9,10 +9,10 @@ Most of my experience is within testing and tools. 👷
 
 <!-- Table Of Contents created by VS Code extension Markdown All In One -->
 
-- [Open-Source Work Samples](#open-source-work-samples)
-  - [My github Projects](#my-github-projects)
-  - [StackExchange](#stackexchange)
-  - [github forum posts](#github-forum-posts)
+- [My Open-Source Work Samples](#my-open-source-work-samples)
+  - [github Projects](#github-projects)
+  - [StackExchange Questions and Answers](#stackexchange-questions-and-answers)
+  - [github Forum Posts](#github-forum-posts)
   - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
   - [Pull Requests](#pull-requests)
   - [Programming Exercises](#programming-exercises)
@@ -20,11 +20,11 @@ Most of my experience is within testing and tools. 👷
 
 ---
 
-## Open-Source Work Samples
+## My Open-Source Work Samples
 
 The following lists are pubicly available examples of my work:
 
-### My github Projects
+### github Projects
 
 - <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher)<br/>_Speedily search and merge many syslog files by datetime._
 - <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/si_trace_print`](https://github.com/jtmoon79/si_trace_print)<br/>_stack indented trace printing; a rust library to print messages indented to stack depth optionally preceded by the function name._
@@ -39,11 +39,11 @@ The following lists are pubicly available examples of my work:
 Thread on linking to icons: https://github.com/simple-icons/simple-icons/discussions/6895
 -->
 
-### StackExchange
+### StackExchange Questions and Answers
 
 <a href="https://stackexchange.com/users/216253/"><img src="https://stackexchange.com/users/flair/216253.png" width="208" height="58" alt="profile for @JamesThomasMoon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for @JamesThomasMoon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-Some of my favorite StackExchange questions:
+Some of my favorite StackExchange posts:
 
 - [_What is the list of python settings that affect encoding, decoding, and printing?_](https://stackoverflow.com/questions/54625182/) (_Question + Answer_)
 - [_Python Windows embeddable package fails to run "No module named pip" "The system cannot find the path specified: 'C:\\python-3.9.6-embed-amd64\\DLLs'"_](https://stackoverflow.com/questions/68958635/python-windows-embeddable-package-fails-to-run-no-module-named-pip-the-system/68958636#68958636) (_Question + Answer_)
@@ -59,7 +59,7 @@ Some of my favorite StackExchange questions:
 - [_What Ethernet twisted pair cable is best with a particular Ethernet switch_](https://serverfault.com/questions/1089864/what-ethernet-twisted-pair-cable-is-best-with-a-particular-ethernet-switch) (_Question_)
 - [_error [E0716]: temporary value dropped while borrowed (rust)_](https://stackoverflow.com/questions/71626083/) (_Question_)
 
-### github forum posts
+### github Forum Posts
 
 My favorite github forum posts:
 
