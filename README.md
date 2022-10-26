@@ -69,6 +69,13 @@ My favorite github forum posts:
 
 Some bug reports and feature requests I have made:
 
+- [`systemd` Launchpad `Bug #1470399` _udev duplicates entries in 70-persistent-net.rules_](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1470399)
+
+<br/>
+
+- [JetBrains PyCharm `PY-38692` _Python debugger breakpoint and symlinked paths can get confused during debugger pause_](https://youtrack.jetbrains.com/issue/PY-38692)
+- [JetBrains PyCharm `PY-40521` _PyCharm cannot create virtualenv based on PyPy3.6_](https://youtrack.jetbrains.com/issue/PY-40521)
+
 - [`pypa/pipenv` Issue #4906 _pipenv install fails if subdirectory cannot be traversed_](https://github.com/pypa/pipenv/issues/4906)
 - [`gerbera/gerbera` Issue #2675 *confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module*](https://github.com/gerbera/gerbera/issues/2675)
 - [`yt-dlp/yt-dlp` Issue #3514 _set Windows NTFS file datetime-related attributes from other available information_](https://github.com/yt-dlp/yt-dlp/issues/3514)
@@ -76,6 +83,9 @@ Some bug reports and feature requests I have made:
 - [`yuk7/AlpineWSL` Issue #26 _installer should set Name alpine versioned, e.g. "Alpine-3.15.0"_](https://github.com/yuk7/AlpineWSL/issues/26)
 - [`Entware/Entware` Issue #716 _opkg program does not allow changing lockfile location; cannot run if /opt is readonly_](https://github.com/Entware/Entware/issues/716)
 - [`microsoft/WSL` Issue #5650 _How to update the WSL2 kernel on current Windows 10_](https://github.com/microsoft/WSL/issues/5650#issuecomment-933138034)
+
+<br/>
+
 - [A forum bug report for Synology DSM](https://community.synology.com/enu/forum/1/post/155131)
 
 ### Pull Requests
