@@ -76,6 +76,8 @@ Some bug reports and feature requests I have made:
 - [JetBrains PyCharm `PY-38692` _Python debugger breakpoint and symlinked paths can get confused during debugger pause_](https://youtrack.jetbrains.com/issue/PY-38692)
 - [JetBrains PyCharm `PY-40521` _PyCharm cannot create virtualenv based on PyPy3.6_](https://youtrack.jetbrains.com/issue/PY-40521)
 
+<br/>
+
 - [`pypa/pipenv` Issue #4906 _pipenv install fails if subdirectory cannot be traversed_](https://github.com/pypa/pipenv/issues/4906)
 - [`gerbera/gerbera` Issue #2675 *confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module*](https://github.com/gerbera/gerbera/issues/2675)
 - [`yt-dlp/yt-dlp` Issue #3514 _set Windows NTFS file datetime-related attributes from other available information_](https://github.com/yt-dlp/yt-dlp/issues/3514)
