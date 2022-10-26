@@ -47,16 +47,18 @@ Some of my favorite StackExchange posts:
 
 - [_What is the list of python settings that affect encoding, decoding, and printing?_](https://stackoverflow.com/questions/54625182/) (_Question + Answer_)
 - [_Python Windows embeddable package fails to run "No module named pip" "The system cannot find the path specified: 'C:\\python-3.9.6-embed-amd64\\DLLs'"_](https://stackoverflow.com/questions/68958635/python-windows-embeddable-package-fails-to-run-no-module-named-pip-the-system/68958636#68958636) (_Question + Answer_)
-- [_rustdoc force for private function_](https://stackoverflow.com/questions/73316135/rustdoc-force-for-private-function) (_Question_)
-- [_Python send email with "quoted-printable" transfer-encoding and "utf-8" content-encoding_](https://stackoverflow.com/questions/31714221/python-send-email-with-quoted-printable-transfer-encoding-and-utf-8-content) (_Question + Answer_)
+- [_rustdoc force for private function_](https://stackoverflow.com/questions/73316135) (_Question_)
+- [_Python send email with "quoted-printable" transfer-encoding and "utf-8" content-encoding_](https://stackoverflow.com/questions/31714221) (_Question + Answer_)
 - [_access return code of a function from within the trap RETURN handler_](https://stackoverflow.com/questions/32086595/access-return-code-of-a-function-from-within-the-trap-return-handler) (_Question + Answer_)
 - [_rustdoc link to enum variant_](https://stackoverflow.com/questions/73316074/rustdoc-link-to-enum-variant/73316075#73316075) (_Question + Answer_)
 - [_DNS Server Search order in Windows 10 and VPNs_](https://serverfault.com/questions/1069162/dns-server-search-order-in-windows-10-and-vpns/1069163) (_Question + Answer_)
 - [_Is the MIME type 'image/jpg' the same as 'image/jpeg'?_](https://stackoverflow.com/questions/33692835/is-the-mime-type-image-jpg-the-same-as-image-jpeg/54488403#54488403) (_Answer_)
 - [_select code based on cfg attribute not true [rust]_](https://stackoverflow.com/questions/71699737/select-code-based-on-cfg-attribute-not-true-rust/71699738#71699738) (_Question + Answer_)
-- [_find all hard linked files between two directories_](https://unix.stackexchange.com/questions/275868/find-all-hard-linked-files-between-two-directories) (_Question + Answer_)
+- [_find all hard linked files between two directories_](https://unix.stackexchange.com/questions/275868) (_Question + Answer_)
+- [what is difference in `declare -r` and `readonly` in bash?](https://stackoverflow.com/a/30362832/471376)
 - [_On Linux, how do I the check CPU affinity of a process and its threads?_](https://serverfault.com/questions/462454/on-linux-how-do-i-the-check-cpu-affinity-of-a-process-and-its-threads/462455#462455) (_Question + Answer_)
-- [_What Ethernet twisted pair cable is best with a particular Ethernet switch_](https://serverfault.com/questions/1089864/what-ethernet-twisted-pair-cable-is-best-with-a-particular-ethernet-switch) (_Question_)
+- [_What Ethernet twisted pair cable is best with a particular Ethernet switch_](https://serverfault.com/questions/1089864) (_Question_)
+- [How to list all \`env\` properties within jenkins pipeline job?](https://stackoverflow.com/questions/37083285) (_Question_)
 - [_error [E0716]: temporary value dropped while borrowed (rust)_](https://stackoverflow.com/questions/71626083/) (_Question_)
 
 ### github Forum Posts
@@ -69,7 +71,7 @@ My favorite github forum posts:
 
 Some bug reports and feature requests I have made:
 
-- [`systemd` Launchpad `Bug #1470399` _udev duplicates entries in 70-persistent-net.rules_](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1470399)
+- [Launchpad `systemd` Bug `#1470399` _udev duplicates entries in 70-persistent-net.rules_](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1470399)
 
 <br/>
 
@@ -88,7 +90,7 @@ Some bug reports and feature requests I have made:
 
 <br/>
 
-- [A forum bug report for Synology DSM](https://community.synology.com/enu/forum/1/post/155131)
+- [Synology Community: NAS _BUG: Hyper Backup dialog stuck when editing long-running paused task_](https://community.synology.com/enu/forum/1/post/155131)
 
 ### Pull Requests
 
