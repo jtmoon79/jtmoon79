@@ -12,9 +12,9 @@ Most of my experience is within testing and tools. 👷
 - [My Open-Source Work Samples](#my-open-source-work-samples)
   - [github Projects](#github-projects)
   - [StackExchange Questions and Answers](#stackexchange-questions-and-answers)
-  - [github Forum Posts](#github-forum-posts)
   - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
   - [Pull Requests](#pull-requests)
+  - [github Forum Posts](#github-forum-posts)
   - [Programming Exercises](#programming-exercises)
 - [Contributing to Open Source](#contributing-to-open-source)
 
@@ -61,12 +61,6 @@ Some of my favorite StackExchange posts:
 - [How to list all \`env\` properties within jenkins pipeline job?](https://stackoverflow.com/questions/37083285) (_Question_)
 - [_error [E0716]: temporary value dropped while borrowed (rust)_](https://stackoverflow.com/questions/71626083/) (_Question_)
 
-### github Forum Posts
-
-My favorite github forum posts:
-
-- [`clap-rs/clap` Discussion #3593 _how to control OPTIONS listing ordering?_](https://github.com/clap-rs/clap/discussions/3593)
-
 ### Bug Reports and Feature Requests
 
 Some bug reports and feature requests I have made:
@@ -101,6 +95,12 @@ My handful of github Pull Requests merged.
 - [`build-trust/ockam` PR #3710 _Codespell fixes_](https://github.com/build-trust/ockam/pull/3710)
 - [`Stebalien/tempfile` PR #184 _doc clarify statics may leak_](https://github.com/Stebalien/tempfile/pull/184)
 - [`emc-isilon/pike` various commits](https://github.com/emc-isilon/pike/commits/master?author=jtmoon79)
+
+### github Forum Posts
+
+My favorite github forum posts:
+
+- [`clap-rs/clap` Discussion #3593 _how to control OPTIONS listing ordering?_](https://github.com/clap-rs/clap/discussions/3593)
 
 ### Programming Exercises
 
