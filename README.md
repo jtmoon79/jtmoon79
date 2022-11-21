@@ -67,6 +67,7 @@ Some of my favorite StackExchange posts:
 Some bug reports and feature requests I have made:
 
 - [Launchpad `systemd` Bug `#1470399` _udev duplicates entries in 70-persistent-net.rules_](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1470399)
+- [DD-WRT bug `#7622` _datetime timezone is different among processes, causes ambiguous syslog message datetimestamps_](https://svn.dd-wrt.com/ticket/7622)
 
 <br/>
 
