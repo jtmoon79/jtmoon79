@@ -17,6 +17,7 @@ Most of my experience is within testing and tools. 👷
   - [github Forum Posts](#github-forum-posts)
   - [Programming Exercises](#programming-exercises)
 - [Contributing to Open Source](#contributing-to-open-source)
+- [Recommended podcasts](#recommended-podcasts)
 
 ---
 
