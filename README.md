@@ -115,3 +115,18 @@ My favorite github forum posts:
 - see my _Sponsors_ section on github
 
 Among many other software projects and organizations that I have voluntarily donated!
+
+## Recommended podcasts
+
+Software-oriented podcasts that I listen to irregularly.
+
+- [Business Wars](https://wondery.com/shows/business-wars/) (abbreviated histories of business competition)
+- [Changelog](https://changelog.com/podcast)
+- [Crypto-Gram Security](https://crypto-gram.libsyn.com/)
+- [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
+- [Python Bytes](https://pythonbytes.fm/)
+- [Rustacean Station](https://rustacean-station.org/)
+- [Security Now](https://www.grc.com/SecurityNow.htm)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
+- [Software Engineering Radio](https://www.se-radio.net/)
+- [Test & Code](https://testandcode.com/)
