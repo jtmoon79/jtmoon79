@@ -61,7 +61,7 @@ Some of my favorite StackExchange posts:
 - [_what is difference in `declare -r` and `readonly` in bash?_](https://stackoverflow.com/a/30362832/471376)
 - [_On Linux, how do I the check CPU affinity of a process and its threads?_](https://serverfault.com/questions/462454/on-linux-how-do-i-the-check-cpu-affinity-of-a-process-and-its-threads/462455#462455) (_Question + Answer_)
 - [_What Ethernet twisted pair cable is best with a particular Ethernet switch_](https://serverfault.com/questions/1089864) (_Question_)
-- [How to list all \`env\` properties within jenkins pipeline job?](https://stackoverflow.com/questions/37083285) (_Question_)
+- [_How to list all \`env\` properties within jenkins pipeline job?_](https://stackoverflow.com/questions/37083285) (_Question_)
 - [_error [E0716]: temporary value dropped while borrowed (rust)_](https://stackoverflow.com/questions/71626083/) (_Question_)
 
 ### Bug Reports and Feature Requests
