@@ -47,6 +47,7 @@ Thread on linking to icons: https://github.com/simple-icons/simple-icons/discuss
 
 Some of my favorite StackExchange posts:
 
+- [_What is the password for Windows 10 Sandbox Administrator?_](https://superuser.com/questions/1682686/)
 - [_What is the list of python settings that affect encoding, decoding, and printing?_](https://stackoverflow.com/questions/54625182/) (_Question + Answer_)
 - [_Python Windows embeddable package fails to run "No module named pip" "The system cannot find the path specified: 'C:\\python-3.9.6-embed-amd64\\DLLs'"_](https://stackoverflow.com/questions/68958635/python-windows-embeddable-package-fails-to-run-no-module-named-pip-the-system/68958636#68958636) (_Question + Answer_)
 - [_rustdoc force for private function_](https://stackoverflow.com/questions/73316135) (_Question_)
@@ -57,7 +58,7 @@ Some of my favorite StackExchange posts:
 - [_Is the MIME type 'image/jpg' the same as 'image/jpeg'?_](https://stackoverflow.com/questions/33692835/is-the-mime-type-image-jpg-the-same-as-image-jpeg/54488403#54488403) (_Answer_)
 - [_select code based on cfg attribute not true [rust]_](https://stackoverflow.com/questions/71699737/select-code-based-on-cfg-attribute-not-true-rust/71699738#71699738) (_Question + Answer_)
 - [_find all hard linked files between two directories_](https://unix.stackexchange.com/questions/275868) (_Question + Answer_)
-- [what is difference in `declare -r` and `readonly` in bash?](https://stackoverflow.com/a/30362832/471376)
+- [_what is difference in `declare -r` and `readonly` in bash?_](https://stackoverflow.com/a/30362832/471376)
 - [_On Linux, how do I the check CPU affinity of a process and its threads?_](https://serverfault.com/questions/462454/on-linux-how-do-i-the-check-cpu-affinity-of-a-process-and-its-threads/462455#462455) (_Question + Answer_)
 - [_What Ethernet twisted pair cable is best with a particular Ethernet switch_](https://serverfault.com/questions/1089864) (_Question_)
 - [How to list all \`env\` properties within jenkins pipeline job?](https://stackoverflow.com/questions/37083285) (_Question_)
