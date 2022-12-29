@@ -47,7 +47,7 @@ Thread on linking to icons: https://github.com/simple-icons/simple-icons/discuss
 
 Some of my favorite StackExchange posts:
 
-- [_What is the password for Windows 10 Sandbox Administrator?_](https://superuser.com/questions/1682686/)
+- [_What is the password for Windows 10 Sandbox Administrator?_](https://superuser.com/questions/1682686/) (_Question + Answer_)
 - [_What is the list of python settings that affect encoding, decoding, and printing?_](https://stackoverflow.com/questions/54625182/) (_Question + Answer_)
 - [_Python Windows embeddable package fails to run "No module named pip" "The system cannot find the path specified: 'C:\\python-3.9.6-embed-amd64\\DLLs'"_](https://stackoverflow.com/questions/68958635/python-windows-embeddable-package-fails-to-run-no-module-named-pip-the-system/68958636#68958636) (_Question + Answer_)
 - [_rustdoc force for private function_](https://stackoverflow.com/questions/73316135) (_Question_)
