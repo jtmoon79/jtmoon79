@@ -14,9 +14,9 @@ Most of my experience is within testing and tools. 👷
   - [Continuous Integration and Code Coverage](#continuous-integration-and-code-coverage)
     - [Azure Pipelines](#azure-pipelines)
     - [CircleCI](#circleci)
+    - [codecov.io](#codecovio)
     - [Github Actions](#github-actions)
     - [Travis CI](#travis-ci)
-    - [codecov.io](#codecovio)
   - [StackExchange Questions and Answers](#stackexchange-questions-and-answers)
   - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
   - [Pull Requests](#pull-requests)
@@ -49,34 +49,34 @@ Thread on linking to icons: https://github.com/simple-icons/simple-icons/discuss
 
 ### Continuous Integration and Code Coverage
 
-I've used several Continuous Integration (CI) services for the sake of learning about them. Here example runs of each.
+I've used several Continuous Integration (CI) services for the sake of learning about them. Here are example runs of each.
 
-Most CI Service providers "roll off" the detailed records of runs older than 90 days so <sup>_archived_</sup> links are provided.
+The <sup>_archived_</sup> links are provided because most CI Service providers expire detailed records.
 
 #### Azure Pipelines
 
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/azurepipelines.svg?color=lightblue"/> [Azure Pipelines workflow](https://dev.azure.com/jtmmoon/goto_http_redirect_server/_build/results?buildId=430) <sup>[archived](https://archive.ph/dvIOY)</sup> from my project [_goto_http_redirect_server_](https://github.com/jtmoon79/goto_http_redirect_server/blob/1.2.1/.azure-pipelines/azure-pipelines.yml)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/azurepipelines.svg?color=lightblue"/> [Azure Pipelines Code Coverage report](https://dev.azure.com/jtmmoon/goto_http_redirect_server/_build/results?buildId=430&view=codecoverage-tab) <sup>[archived](https://archive.ph/BNE9h)</sup> for my project [_goto_http_redirect_server_](https://github.com/jtmoon79/goto_http_redirect_server/blob/1.2.1/.azure-pipelines/azure-pipelines.yml#L150-L188)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/azurepipelines.svg?color=lightblue"/> [Azure Pipelines workflow](https://dev.azure.com/jtmmoon/goto_http_redirect_server/_build/results?buildId=430) <sup>[archived](https://archive.ph/dvIOY)</sup> for my project [`goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server/blob/1.2.1/.azure-pipelines/azure-pipelines.yml)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/azurepipelines.svg?color=lightblue"/> [Azure Pipelines Code Coverage report](https://dev.azure.com/jtmmoon/goto_http_redirect_server/_build/results?buildId=430&view=codecoverage-tab) <sup>[archived](https://archive.ph/BNE9h)</sup> for my project [`goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server/blob/1.2.1/.azure-pipelines/azure-pipelines.yml#L150-L188)
 
 #### CircleCI
 
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/circleci.svg?color=white"/> [CircleCI workflow](https://app.circleci.com/pipelines/github/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/y8Esh)</sup> from my project [_CoverLovin2_](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.circleci/config.yml)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/circleci.svg?color=white"/> [CircleCI workflow](https://app.circleci.com/pipelines/github/jtmoon79/goto_http_redirect_server) <sup>[archived](https://archive.ph/RPgft)</sup> for my project [_goto_http_redirect_server_](https://github.com/jtmoon79/goto_http_redirect_server/blob/1.2.1/.circleci/config.yml)
-
-#### Github Actions
-
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/github.svg?color=black"/> [Github Actions workflow](https://github.com/jtmoon79/si_trace_print/actions/runs/3937216916) <sup>[archived](https://archive.ph/Q1NmW)</sup> for my project [_si_trace_print_](https://github.com/jtmoon79/si_trace_print/blob/0.3.9/.github/workflows/rust.yml)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/github.svg?color=black"/> [Github Actions workflow](https://github.com/jtmoon79/super-speedy-syslog-searcher/actions/runs/3927952485) <sup>[archived](https://archive.ph/bAiws)</sup> for my project [_super-speedy-syslog-searcher_](https://github.com/jtmoon79/super-speedy-syslog-searcher/blob/0.2.48/.github/workflows/rust.yml)
-
-#### Travis CI
-
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/travisci.svg?color=green"/> [Travis CI workflow](https://app.travis-ci.com/github/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/QicYs)</sup> from my project [_CoverLovin2_](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.travis.yml)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/circleci.svg?color=white"/> [CircleCI workflow](https://app.circleci.com/pipelines/github/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/y8Esh)</sup> for my project [`CoverLovin2`](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.circleci/config.yml)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/circleci.svg?color=white"/> [CircleCI workflow](https://app.circleci.com/pipelines/github/jtmoon79/goto_http_redirect_server) <sup>[archived](https://archive.ph/RPgft)</sup> for my project [`goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server/blob/1.2.1/.circleci/config.yml)
 
 #### codecov.io
 
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/CR5C4)</sup> from my project [_CoverLovin2_](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.coveragerc)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/si_trace_print/commit/5c6108e30f0ab7407e1736f187d643b1cbce6723/tree/src) <sup>[archived](https://archive.ph/CPYB7)</sup> for my project [_si_trace_print_](https://github.com/jtmoon79/si_trace_print/blob/0.3.9/.codecov.yml)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/super-speedy-syslog-searcher/commit/66d4f28e831648077c89707232380dd107f043c5/tree) <sup>[archived](https://archive.ph/0Zq8N)</sup> for my project [_super-speedy-syslog-searcher_](https://github.com/jtmoon79/super-speedy-syslog-searcher/blob/0.2.48/.github/workflows/rust.yml#L301-L336)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/CR5C4)</sup> for my project [`CoverLovin2`](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.coveragerc)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/si_trace_print/commit/5c6108e30f0ab7407e1736f187d643b1cbce6723/tree/src) <sup>[archived](https://archive.ph/CPYB7)</sup> for my project [`si_trace_print`](https://github.com/jtmoon79/si_trace_print/blob/0.3.9/.codecov.yml)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/super-speedy-syslog-searcher/commit/66d4f28e831648077c89707232380dd107f043c5/tree) <sup>[archived](https://archive.ph/0Zq8N)</sup> for my project [`super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher/blob/0.2.48/.github/workflows/rust.yml#L301-L336)
+
+#### Github Actions
+
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/github.svg?color=black"/> [Github Actions workflow](https://github.com/jtmoon79/si_trace_print/actions/runs/3937216916) <sup>[archived](https://archive.ph/Q1NmW)</sup> for my project [`si_trace_print`](https://github.com/jtmoon79/si_trace_print/blob/0.3.9/.github/workflows/rust.yml)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/github.svg?color=black"/> [Github Actions workflow](https://github.com/jtmoon79/super-speedy-syslog-searcher/actions/runs/3927952485) <sup>[archived](https://archive.ph/bAiws)</sup> for project [`super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher/blob/0.2.48/.github/workflows/rust.yml)
+
+#### Travis CI
+
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/travisci.svg?color=green"/> [Travis CI workflow](https://app.travis-ci.com/github/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/QicYs)</sup> for my project [`CoverLovin2`](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.travis.yml)
 
 ### StackExchange Questions and Answers
 
