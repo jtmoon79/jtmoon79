@@ -65,12 +65,12 @@ Most CI Service providers "roll off" the detailed records of runs older than 90 
 
 #### Github Actions
 
-- A [Github Actions workflow](https://github.com/jtmoon79/si_trace_print/actions/runs/3937216916) <sup>[archived](https://archive.ph/Q1NmW)</sup> for my project [_si_trace_print_](https://github.com/jtmoon79/si_trace_print/blob/0.3.9/.github/workflows/rust.yml)
-- A [Github Actions workflow](https://github.com/jtmoon79/super-speedy-syslog-searcher/actions/runs/3927952485) <sup>[archived](https://archive.ph/bAiws)</sup> for my project [_super-speedy-syslog-searcher_](https://github.com/jtmoon79/super-speedy-syslog-searcher/blob/0.2.48/.github/workflows/rust.yml)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/github.svg?color=black"/> [Github Actions workflow](https://github.com/jtmoon79/si_trace_print/actions/runs/3937216916) <sup>[archived](https://archive.ph/Q1NmW)</sup> for my project [_si_trace_print_](https://github.com/jtmoon79/si_trace_print/blob/0.3.9/.github/workflows/rust.yml)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/github.svg?color=black"/> [Github Actions workflow](https://github.com/jtmoon79/super-speedy-syslog-searcher/actions/runs/3927952485) <sup>[archived](https://archive.ph/bAiws)</sup> for my project [_super-speedy-syslog-searcher_](https://github.com/jtmoon79/super-speedy-syslog-searcher/blob/0.2.48/.github/workflows/rust.yml)
 
 #### Travis CI
 
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/travisci.svg?color=yellow"/> [Travis CI workflow](https://app.travis-ci.com/github/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/QicYs)</sup> from my project [_CoverLovin2_](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.travis.yml)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/travisci.svg?color=green"/> [Travis CI workflow](https://app.travis-ci.com/github/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/QicYs)</sup> from my project [_CoverLovin2_](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.travis.yml)
 
 #### codecov.io
 
