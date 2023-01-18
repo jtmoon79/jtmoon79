@@ -65,14 +65,14 @@ The <sup>_archived_</sup> links are provided because most CI Service providers e
 
 #### codecov.io
 
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/CR5C4)</sup> for my project [`CoverLovin2`](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.coveragerc)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/super-speedy-syslog-searcher/commit/66d4f28e831648077c89707232380dd107f043c5/tree) <sup>[archived](https://archive.ph/uLFRE)</sup> for my project [`super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher/blob/0.2.48/.github/workflows/rust.yml#L301-L336)
 - <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/si_trace_print/commit/5c6108e30f0ab7407e1736f187d643b1cbce6723/tree/src) <sup>[archived](https://archive.ph/CPYB7)</sup> for my project [`si_trace_print`](https://github.com/jtmoon79/si_trace_print/blob/0.3.9/.codecov.yml)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/super-speedy-syslog-searcher/commit/66d4f28e831648077c89707232380dd107f043c5/tree) <sup>[archived](https://archive.ph/mGCxP)</sup> for my project [`super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher/blob/0.2.48/.github/workflows/rust.yml#L301-L336)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/codecov.svg?color=purple"/> [codecov.io Code Coverage report](https://app.codecov.io/gh/jtmoon79/coverlovin2) <sup>[archived](https://archive.ph/CR5C4)</sup> for my project [`CoverLovin2`](https://github.com/jtmoon79/coverlovin2/blob/0.7.3/.coveragerc)
 
 #### Github Actions
 
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/github.svg?color=black"/> [Github Actions workflow](https://github.com/jtmoon79/si_trace_print/actions/runs/3937216916) <sup>[archived](https://archive.ph/Q1NmW)</sup> for my project [`si_trace_print`](https://github.com/jtmoon79/si_trace_print/blob/0.3.9/.github/workflows/rust.yml)
 - <img height="12" width="12" src="https://api.iconify.design/simple-icons/github.svg?color=black"/> [Github Actions workflow](https://github.com/jtmoon79/super-speedy-syslog-searcher/actions/runs/3927952485) <sup>[archived](https://archive.ph/bAiws)</sup> for project [`super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher/blob/0.2.48/.github/workflows/rust.yml)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/github.svg?color=black"/> [Github Actions workflow](https://github.com/jtmoon79/si_trace_print/actions/runs/3937216916) <sup>[archived](https://archive.ph/Q1NmW)</sup> for my project [`si_trace_print`](https://github.com/jtmoon79/si_trace_print/blob/0.3.9/.github/workflows/rust.yml)
 
 #### Travis CI
 
