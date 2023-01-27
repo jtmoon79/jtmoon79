@@ -93,7 +93,7 @@ Some of my favorite StackExchange posts:
 - [_Is the MIME type 'image/jpg' the same as 'image/jpeg'?_](https://stackoverflow.com/questions/33692835/is-the-mime-type-image-jpg-the-same-as-image-jpeg/54488403#54488403) (_Answer_)
 - [_select code based on cfg attribute not true [rust]_](https://stackoverflow.com/questions/71699737/select-code-based-on-cfg-attribute-not-true-rust/71699738#71699738) (_Question + Answer_)
 - [_find all hard linked files between two directories_](https://unix.stackexchange.com/questions/275868) (_Question + Answer_)
-- [_what is difference in `declare -r` and `readonly` in bash?_](https://stackoverflow.com/a/30362832/471376)
+- [_what is difference in `declare -r` and `readonly` in bash?_](https://stackoverflow.com/a/30362832/471376) (_Question + Answer_)
 - [_On Linux, how do I the check CPU affinity of a process and its threads?_](https://serverfault.com/questions/462454/on-linux-how-do-i-the-check-cpu-affinity-of-a-process-and-its-threads/462455#462455) (_Question + Answer_)
 - [_What Ethernet twisted pair cable is best with a particular Ethernet switch_](https://serverfault.com/questions/1089864) (_Question_)
 - [_How to list all \`env\` properties within jenkins pipeline job?_](https://stackoverflow.com/questions/37083285) (_Question_)
