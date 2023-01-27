@@ -145,6 +145,7 @@ My favorite github forum posts:
 
 - My [gist.github profile](https://gist.github.com/jtmoon79)
 - My [StackExchange profile](https://stackexchange.com/users/216253/)
+- My [gitlab profile](https://gitlab.com/jtmoon101)
 
 ## Contributing to Open Source
 
