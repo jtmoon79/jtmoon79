@@ -103,7 +103,6 @@ Some of my favorite StackExchange posts:
 
 Some bug reports and feature requests I have made:
 
-- [Launchpad `systemd` Bug `#1470399` _udev duplicates entries in 70-persistent-net.rules_](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1470399)
 - [DD-WRT bug `#7622` _datetime timezone is different among processes, causes ambiguous syslog message datetimestamps_](https://svn.dd-wrt.com/ticket/7622)
 
 <br/>
@@ -124,6 +123,10 @@ Some bug reports and feature requests I have made:
 <br/>
 
 - [Synology Community: NAS _BUG: Hyper Backup dialog stuck when editing long-running paused task_](https://community.synology.com/enu/forum/1/post/155131)
+
+<br/>
+
+- [Launchpad `systemd` Bug `#1470399` _udev duplicates entries in 70-persistent-net.rules_](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1470399)
 
 ### Pull Requests
 
