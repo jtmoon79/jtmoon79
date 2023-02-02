@@ -126,7 +126,7 @@ Some bug reports and feature requests I have made:
 
 <br/>
 
-- [Launchpad `systemd` Bug `#1470399` _udev duplicates entries in 70-persistent-net.rules_](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1470399)
+- [Launchpad `systemd` Bug `#1470399` _udev duplicates entries in 70-persistent-net.rules_](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1470399) (see ad-hoc section _Original description of the problem_)
 
 ### Pull Requests
 
