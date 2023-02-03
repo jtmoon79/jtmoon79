@@ -82,6 +82,7 @@ The <sup>_archived_</sup> links are provided because most CI Service providers e
 
 Some of my favorite StackExchange posts:
 
+- [_How can I use journalctl to time-filter and view non-journal files?_](https://unix.stackexchange.com/a/734044/21203) (_Answer_)
 - [_DNS Server Search order in Windows 10 and VPNs_](https://serverfault.com/questions/1069162/dns-server-search-order-in-windows-10-and-vpns/1069163) (_Question + Answer_)
 - [_What is the password for Windows 10 Sandbox Administrator?_](https://superuser.com/questions/1682686/) (_Question + Answer_)
 - [_What is the list of python settings that affect encoding, decoding, and printing?_](https://stackoverflow.com/questions/54625182/) (_Question + Answer_)
