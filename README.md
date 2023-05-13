@@ -132,13 +132,13 @@ Some bug reports and feature requests I have made:
 
 ### Pull Requests
 
-My handful of github Pull Requests merged.
+My other github commits:
 
-- [`chronotope/chrono` PR #807 _Issue #660 whitespace exact_](https://github.com/chronotope/chrono/pull/807)
-- [`NeilGirdhar/ipromise` PR #9 _Readme tools samples_](https://github.com/NeilGirdhar/ipromise/pull/9)
-- [`build-trust/ockam` PR #3710 _Codespell fixes_](https://github.com/build-trust/ockam/pull/3710)
-- [`Stebalien/tempfile` PR #184 _doc clarify statics may leak_](https://github.com/Stebalien/tempfile/pull/184)
-- [`emc-isilon/pike` various commits](https://github.com/emc-isilon/pike/commits/master?author=jtmoon79)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`chronotope/chrono` various commits](https://github.com/chronotope/chrono/commits?author=jtmoon79)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`emc-isilon/pike` various commits](https://github.com/emc-isilon/pike/commits?author=jtmoon79)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`NeilGirdhar/ipromise` PR #9 _Readme tools samples_](https://github.com/NeilGirdhar/ipromise/pull/9)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`build-trust/ockam` PR #3710 _Codespell fixes_](https://github.com/build-trust/ockam/pull/3710)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`Stebalien/tempfile` PR #184 _doc clarify statics may leak_](https://github.com/Stebalien/tempfile/pull/184)
 
 ### github Forum Posts
 
