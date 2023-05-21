@@ -103,7 +103,7 @@ Some of my favorite StackExchange posts:
 
 ### Bug Reports and Feature Requests
 
-Some bug reports and feature requests I have made:
+Some bug reports and feature requests I have made (some among many):
 
 - [DD-WRT bug `#7622` _datetime timezone is different among processes, causes ambiguous syslog message datetimestamps_](https://svn.dd-wrt.com/ticket/7622)
 
@@ -121,6 +121,7 @@ Some bug reports and feature requests I have made:
 - [`yuk7/AlpineWSL` Issue #26 _installer should set Name alpine versioned, e.g. "Alpine-3.15.0"_](https://github.com/yuk7/AlpineWSL/issues/26)
 - [`Entware/Entware` Issue #716 _opkg program does not allow changing lockfile location; cannot run if /opt is readonly_](https://github.com/Entware/Entware/issues/716)
 - [`microsoft/WSL` Issue #5650 _How to update the WSL2 kernel on current Windows 10_](https://github.com/microsoft/WSL/issues/5650#issuecomment-933138034)
+- [`rust-lang/rust` Issue #110709 _command rustc --print crate-name panics on Alpine 3.17 Linux_](https://github.com/rust-lang/rust/issues/110709#event-9220847578)
 
 <br/>
 
