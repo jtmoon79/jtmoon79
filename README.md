@@ -37,6 +37,12 @@ Thread on linking to icons: https://github.com/simple-icons/simple-icons/discuss
 
 ### github Projects
 
+<br/>
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jtmoon79)](https://github.com/jtmoon79/jtmoon79/)
+
+<br/>
+
 - <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher)<br/>_Speedily search and merge log files by datetime._
 - <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/si_trace_print`](https://github.com/jtmoon79/si_trace_print)<br/>_stack indented trace printing; a rust library to print messages indented to stack depth optionally preceded by the function name._
 - <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server)<br/>_The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network._
