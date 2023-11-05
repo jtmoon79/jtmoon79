@@ -121,6 +121,7 @@ Some bug reports and feature requests I have made (some among many):
 <br/>
 
 - [`pypa/pipenv` Issue #4906 _pipenv install fails if subdirectory cannot be traversed_](https://github.com/pypa/pipenv/issues/4906)
+- [`pypa/pipenv` Issue #6005 _Pipfile package specifier for different platform not honored_](https://github.com/pypa/pipenv/issues/6005)
 - [`gerbera/gerbera` Issue #2675 *confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module*](https://github.com/gerbera/gerbera/issues/2675)
 - [`yt-dlp/yt-dlp` Issue #3514 _set Windows NTFS file datetime-related attributes from other available information_](https://github.com/yt-dlp/yt-dlp/issues/3514)
 - [`jeffparsons/rangemap` Issue #42 _[Feature Request] allow optional "no coalescing"_](https://github.com/jeffparsons/rangemap/issues/42)
