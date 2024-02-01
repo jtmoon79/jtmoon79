@@ -111,7 +111,7 @@ Some of my favorite StackExchange posts:
 
 Some public bug reports and feature requests I have made:
 
-- [OpenSSH Bug `#3639` _server thread aborts during client login after receiving SSH2_MSG_KEXINIT due to ssh_sandbox_violation_](https://bugzilla.mindrot.org/show_bug.cgi?id=3639)
+- [OpenSSH Bug `#3639` _server thread aborts during client login after receiving SSH2_MSG_KEXINIT due to ssh_sandbox_violation_](https://bugzilla.mindrot.org/show_bug.cgi?id=3639#c29)
 
 <br/>
 
