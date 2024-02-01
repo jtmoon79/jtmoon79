@@ -109,7 +109,11 @@ Some of my favorite StackExchange posts:
 
 ### Bug Reports and Feature Requests
 
-Some bug reports and feature requests I have made (some among many):
+Some public bug reports and feature requests I have made:
+
+- [OpenSSH Bug `#3639` _server thread aborts during client login after receiving SSH2_MSG_KEXINIT due to ssh_sandbox_violation_]([https://svn.dd-wrt.com/ticket/7622](https://bugzilla.mindrot.org/show_bug.cgi?id=3639))
+
+<br/>
 
 - [DD-WRT bug `#7622` _datetime timezone is different among processes, causes ambiguous syslog message datetimestamps_](https://svn.dd-wrt.com/ticket/7622)
 
