@@ -42,15 +42,22 @@ Thread on linking to icons: https://github.com/simple-icons/simple-icons/discuss
 
 <br/>
 
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher)<br/>_Speedily search and merge log files by datetime._
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/si_trace_print`](https://github.com/jtmoon79/si_trace_print)<br/>_stack indented trace printing; a small rust library to print messages indented to stack depth optionally preceded by the function name._
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server)<br/>_The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network._
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/coverlovin2`](https://github.com/jtmoon79/coverlovin2)<br/>_Add music album images to your music file directories._
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/powershell.svg?color=lightblue"/> <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/PythonEmbed4Win`](https://github.com/jtmoon79/PythonEmbed4Win)<br/>_Easily create a standalone Python embed.zip local environment in Windows._
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/debian.svg?color=darkred"/> <img height="12" width="12" src="https://api.iconify.design/simple-icons/openbsd.svg?color=lightyellow"/> [`jtmoon79/openssh-latest-build-install.md`](https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a)<br/>_Build, install, and run the latest OpenSSH Server as a systemd service._
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/wireguard.svg?color=red"/> [`jtmoon79/wireguard-site-to-site.sh`](https://gist.github.com/jtmoon79/c951f81f621bb87ddb60836245aca4ff) _Wireguard Site to Site generator._<br/>
-<img height="12" width="12" src="https://api.iconify.design/simple-icons/wireguard.svg?color=red"/> [`jtmoon79/wireguard-client-to-site.sh`](https://gist.github.com/jtmoon79/217e55272c55631ba6025c9f890b3dde) _Wireguard Client to Site generator._
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/gnubash.svg?color=lightblue"/> [`jtmoon79/dotfiles`](https://github.com/jtmoon79/dotfiles)<br/>_Putting the . in ._<br/>Miscellaneous user dot files for consistent user shell environments. Also a place to store various small scripts for various tasks.
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/super-speedy-syslog-searcher`](https://github.com/jtmoon79/super-speedy-syslog-searcher) ![GitHub Repo stars](https://img.shields.io/github/stars/jtmoon79/super-speedy-syslog-searcher)
+<br/>_Speedily search and merge log files by datetime._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`jtmoon79/si_trace_print`](https://github.com/jtmoon79/si_trace_print) ![GitHub Repo stars](https://img.shields.io/github/stars/jtmoon79/si_trace_print)
+<br/>_stack indented trace printing; a small rust library to print messages indented to stack depth optionally preceded by the function name._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/goto_http_redirect_server`](https://github.com/jtmoon79/goto_http_redirect_server) ![GitHub Repo stars](https://img.shields.io/github/stars/jtmoon79/goto_http_redirect_server)
+<br/>_The "Go To" HTTP Redirect Server for sharing dynamic shortcut URLs on your network._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/coverlovin2`](https://github.com/jtmoon79/coverlovin2) ![GitHub Repo stars](https://img.shields.io/github/stars/jtmoon79/coverlovin2)
+<br/>_Add music album images to your music file directories._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/powershell.svg?color=lightblue"/> <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`jtmoon79/PythonEmbed4Win`](https://github.com/jtmoon79/PythonEmbed4Win) ![GitHub Repo stars](https://img.shields.io/github/stars/jtmoon79/PythonEmbed4Win)
+<br/>_Easily create a standalone Python embed.zip local environment in Windows._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/debian.svg?color=darkred"/> <img height="12" width="12" src="https://api.iconify.design/simple-icons/openbsd.svg?color=lightyellow"/> [`jtmoon79/openssh-latest-build-install.md`](https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a) ![GitHub Gist stars](https://img.shields.io/github/gist/stars/745e6df63dd14b9f2d17a662179e953a)<br/>_Build, install, and run the latest OpenSSH Server as a systemd service._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/wireguard.svg?color=red"/> [`jtmoon79/wireguard-site-to-site.sh`](https://gist.github.com/jtmoon79/c951f81f621bb87ddb60836245aca4ff) ![GitHub Gist stars](https://img.shields.io/github/gist/stars/c951f81f621bb87ddb60836245aca4ff)
+ _Wireguard Site to Site generator._<br/>
+<img height="12" width="12" src="https://api.iconify.design/simple-icons/wireguard.svg?color=red"/> [`jtmoon79/wireguard-client-to-site.sh`](https://gist.github.com/jtmoon79/217e55272c55631ba6025c9f890b3dde) ![GitHub Gist stars](https://img.shields.io/github/gist/stars/217e55272c55631ba6025c9f890b3dde)
+ _Wireguard Client to Site generator._
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/gnubash.svg?color=lightblue"/> [`jtmoon79/dotfiles`](https://github.com/jtmoon79/dotfiles) (personal)<br/>_Putting the . in ._<br/>Miscellaneous user dot files for consistent user shell environments. Also a place to store various small scripts for various tasks.
 
 ### Continuous Integration and Code Coverage
 
