@@ -117,6 +117,19 @@ Some of my favorite StackExchange posts:
 
 Some public bug reports and feature requests I have made:
 
+- [`rodrimati1992/const_format_crates`_Issue #67 _rust-analyzer reports "the 'right_NHPMWYD3NJA' argument is unused"_](https://github.com/rodrimati1992/const_format_crates/issues/67)
+- [`pypa/pipenv` Issue #4906 _pipenv install fails if subdirectory cannot be traversed_](https://github.com/pypa/pipenv/issues/4906)
+- [`pypa/pipenv` Issue #6005 _Pipfile package specifier for different platform not honored_](https://github.com/pypa/pipenv/issues/6005)
+- [`gerbera/gerbera` Issue #2675 *confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module*](https://github.com/gerbera/gerbera/issues/2675)
+- [`yt-dlp/yt-dlp` Issue #3514 _set Windows NTFS file datetime-related attributes from other available information_](https://github.com/yt-dlp/yt-dlp/issues/3514)
+- [`jeffparsons/rangemap` Issue #42 _[Feature Request] allow optional "no coalescing"_](https://github.com/jeffparsons/rangemap/issues/42)
+- [`yuk7/AlpineWSL` Issue #26 _installer should set Name alpine versioned, e.g. "Alpine-3.15.0"_](https://github.com/yuk7/AlpineWSL/issues/26)
+- [`Entware/Entware` Issue #716 _opkg program does not allow changing lockfile location; cannot run if /opt is readonly_](https://github.com/Entware/Entware/issues/716)
+- [`microsoft/WSL` Issue #5650 _How to update the WSL2 kernel on current Windows 10_](https://github.com/microsoft/WSL/issues/5650#issuecomment-933138034)
+- [`rust-lang/rust` Issue #110709 _command rustc --print crate-name panics on Alpine 3.17 Linux_](https://github.com/rust-lang/rust/issues/110709#event-9220847578)
+
+<br/>
+
 - [OpenSSH Bug `#3639` _server thread aborts during client login after receiving SSH2_MSG_KEXINIT due to ssh_sandbox_violation_](https://bugzilla.mindrot.org/show_bug.cgi?id=3639#c29)
 
 <br/>
@@ -127,18 +140,6 @@ Some public bug reports and feature requests I have made:
 
 - [JetBrains PyCharm `PY-38692` _Python debugger breakpoint and symlinked paths can get confused during debugger pause_](https://youtrack.jetbrains.com/issue/PY-38692)
 - [JetBrains PyCharm `PY-40521` _PyCharm cannot create virtualenv based on PyPy3.6_](https://youtrack.jetbrains.com/issue/PY-40521)
-
-<br/>
-
-- [`pypa/pipenv` Issue #4906 _pipenv install fails if subdirectory cannot be traversed_](https://github.com/pypa/pipenv/issues/4906)
-- [`pypa/pipenv` Issue #6005 _Pipfile package specifier for different platform not honored_](https://github.com/pypa/pipenv/issues/6005)
-- [`gerbera/gerbera` Issue #2675 *confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module*](https://github.com/gerbera/gerbera/issues/2675)
-- [`yt-dlp/yt-dlp` Issue #3514 _set Windows NTFS file datetime-related attributes from other available information_](https://github.com/yt-dlp/yt-dlp/issues/3514)
-- [`jeffparsons/rangemap` Issue #42 _[Feature Request] allow optional "no coalescing"_](https://github.com/jeffparsons/rangemap/issues/42)
-- [`yuk7/AlpineWSL` Issue #26 _installer should set Name alpine versioned, e.g. "Alpine-3.15.0"_](https://github.com/yuk7/AlpineWSL/issues/26)
-- [`Entware/Entware` Issue #716 _opkg program does not allow changing lockfile location; cannot run if /opt is readonly_](https://github.com/Entware/Entware/issues/716)
-- [`microsoft/WSL` Issue #5650 _How to update the WSL2 kernel on current Windows 10_](https://github.com/microsoft/WSL/issues/5650#issuecomment-933138034)
-- [`rust-lang/rust` Issue #110709 _command rustc --print crate-name panics on Alpine 3.17 Linux_](https://github.com/rust-lang/rust/issues/110709#event-9220847578)
 
 <br/>
 
