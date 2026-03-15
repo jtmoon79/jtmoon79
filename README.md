@@ -58,6 +58,7 @@ Thread on linking to icons: https://github.com/simple-icons/simple-icons/discuss
 <img height="12" width="12" src="https://api.iconify.design/simple-icons/wireguard.svg?color=red"/> [`jtmoon79/wireguard-client-to-site.sh`](https://gist.github.com/jtmoon79/217e55272c55631ba6025c9f890b3dde) ![GitHub Gist stars](https://img.shields.io/github/gist/stars/217e55272c55631ba6025c9f890b3dde)
  _Wireguard Client to Site generator._
 - <img height="12" width="12" src="https://api.iconify.design/simple-icons/gnubash.svg?color=lightblue"/> [`jtmoon79/dotfiles`](https://github.com/jtmoon79/dotfiles) (personal)<br/>_Putting the . in ._<br/>Miscellaneous user dot files for consistent user shell environments. Also a place to store various small scripts for various tasks.
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/raphael:windows"/> <img height="12" width="12" src="https://api.iconify.design/simple-icons/simple-icons:linux"/> [`Useful Tools`](https://gist.github.com/jtmoon79/b2cc44932adaaca33ec907b56eb64253) (personal)<br/>(Personal) Listing and small recipes for setting up new systems.
 
 ### Continuous Integration and Code Coverage
 
