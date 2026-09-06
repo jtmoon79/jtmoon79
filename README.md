@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Hello
 
-I am a software engineer.
+I am a software engineer. 🐵
 Most of my experience is within testing and tools.
 
 ---
