@@ -17,8 +17,8 @@ Most of my experience is within testing and tools.
     - [Github Actions](#github-actions)
     - [Travis CI](#travis-ci)
   - [StackExchange Questions and Answers](#stackexchange-questions-and-answers)
-  - [Pull Requests, Bug Reports, and Feature Requests](#pull-requests-bug-reports-and-feature-requests)
   - [Pull Requests](#pull-requests)
+  - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
   - [github Forum Posts](#github-forum-posts)
   - [Other Links](#other-links)
 - [Contributing to Open Source](#contributing-to-open-source)
@@ -114,15 +114,25 @@ Some of my favorite StackExchange posts:
 - [_error [E0716]: temporary value dropped while borrowed \[rust\]_](https://stackoverflow.com/questions/71626083/) (_Question_)
 - [_solving "argument requires that \`x\` is borrowed for \`'y\`" \[rust\]_](https://stackoverflow.com/questions/71774794/solving-argument-requires-that-x-is-borrowed-for-y) (_Question_)
 
-### Pull Requests, Bug Reports, and Feature Requests
+### Pull Requests
 
-Some public Pull Requests, Bug reports, and Feature Requests I have made. These are not necessarily amazing, rather they are examples of how I work with other projects.
+These are not necessarily amazing, rather they are examples of how I work with other projects.
 
 - [`rodrimati1992/const_format_crates` _Pull Request #73_ `assertcp_eq!` token fix](https://github.com/rodrimati1992/const_format_crates/pull/73)
 - [`frondeus/test-case` _Pull Request #156_ fix bare 'panics' silent parse failure](https://github.com/frondeus/test-case/pull/156)
   - from [`frondeus/test-case` _Issue #153_ test_case with `=> panics` fails when test_case panics](https://github.com/frondeus/test-case/issues/153)
 - [`omerbenamram/evtx` _Pull Request #287_ pub Timestamp Offset](https://github.com/omerbenamram/evtx/pull/287)
 - [`chronotope/chrono` _Pull Request #1352_ test.yml remove errant `with: node-version`](https://github.com/chronotope/chrono/pull/1352)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`chronotope/chrono` various commits](https://github.com/chronotope/chrono/commits?author=jtmoon79)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`emc-isilon/pike` various commits](https://github.com/emc-isilon/pike/commits?author=jtmoon79)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`NeilGirdhar/ipromise` PR #9 _Readme tools samples_](https://github.com/NeilGirdhar/ipromise/pull/9)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`build-trust/ockam` PR #3710 _Codespell fixes_](https://github.com/build-trust/ockam/pull/3710)
+- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`Stebalien/tempfile` PR #184 _doc clarify statics may leak_](https://github.com/Stebalien/tempfile/pull/184)
+
+### Bug Reports and Feature Requests
+
+Some public Bug Reports and Feature Requests I have made.
+
 - [`pypa/pipenv` Issue #4906 _pipenv install fails if subdirectory cannot be traversed_](https://github.com/pypa/pipenv/issues/4906)
 - [`pypa/pipenv` Issue #6005 _Pipfile package specifier for different platform not honored_](https://github.com/pypa/pipenv/issues/6005)
 - [`gerbera/gerbera` Issue #2675 *confusing nginx.conf docs example; use both ngx_http_subs_filter_module and ngx_http_sub_module*](https://github.com/gerbera/gerbera/issues/2675)
@@ -153,16 +163,6 @@ Some public Pull Requests, Bug reports, and Feature Requests I have made. These 
 <br/>
 
 - [Launchpad `systemd` Bug `#1470399` _udev duplicates entries in 70-persistent-net.rules_](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1470399) (see ad-hoc section _Original description of the problem_)
-
-### Pull Requests
-
-My other github commits:
-
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`chronotope/chrono` various commits](https://github.com/chronotope/chrono/commits?author=jtmoon79)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`emc-isilon/pike` various commits](https://github.com/emc-isilon/pike/commits?author=jtmoon79)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/python.svg?color=yellow"/> [`NeilGirdhar/ipromise` PR #9 _Readme tools samples_](https://github.com/NeilGirdhar/ipromise/pull/9)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`build-trust/ockam` PR #3710 _Codespell fixes_](https://github.com/build-trust/ockam/pull/3710)
-- <img height="12" width="12" src="https://api.iconify.design/simple-icons/rust.svg?color=maroon"/> [`Stebalien/tempfile` PR #184 _doc clarify statics may leak_](https://github.com/Stebalien/tempfile/pull/184)
 
 ### github Forum Posts
 
