@@ -114,9 +114,9 @@ Some of my favorite StackExchange posts:
 - [_error [E0716]: temporary value dropped while borrowed \[rust\]_](https://stackoverflow.com/questions/71626083/) (_Question_)
 - [_solving "argument requires that \`x\` is borrowed for \`'y\`" \[rust\]_](https://stackoverflow.com/questions/71774794/solving-argument-requires-that-x-is-borrowed-for-y) (_Question_)
 
-### Bug Reports and Feature Requests
+### Pull Requests, Bug Reports, and Feature Requests
 
-Some public Pull Requests, Bug reports. Feature Requests I have made. Not necessarily amazing, just examples of how I work with other projects.
+Some public Pull Requests, Bug reports, and Feature Requests I have made. These are not necessarily amazing, rather they are examples of how I work with other projects.
 
 - [`rodrimati1992/const_format_crates` _Pull Request #73_ `assertcp_eq!` token fix](https://github.com/rodrimati1992/const_format_crates/pull/73)
 - [`frondeus/test-case` _Pull Request #156_ fix bare 'panics' silent parse failure](https://github.com/frondeus/test-case/pull/156)
