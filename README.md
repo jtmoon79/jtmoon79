@@ -120,7 +120,7 @@ Some public Pull Requests, Bug reports. Feature Requests I have made. Not necess
 
 - [`rodrimati1992/const_format_crates` _Pull Request #73_ `assertcp_eq!` token fix](https://github.com/rodrimati1992/const_format_crates/pull/73)
 - [`frondeus/test-case` _Pull Request #156_ fix bare 'panics' silent parse failure](https://github.com/frondeus/test-case/pull/156)
-  -  from [`frondeus/test-case` _Issue #156_ test_case with `=> panics` fails when test_case panics](https://github.com/frondeus/test-case/issues/153)
+  -  from [`frondeus/test-case` _Issue #153_ test_case with `=> panics` fails when test_case panics](https://github.com/frondeus/test-case/issues/153)
 - [`omerbenamram/evtx` _Pull Request #287_ pub Timestamp Offset](https://github.com/omerbenamram/evtx/pull/287)
 - [`chronotope/chrono` _Pull Request #1352_ test.yml remove errant `with: node-version`](https://github.com/chronotope/chrono/pull/1352)
 - [`pypa/pipenv` Issue #4906 _pipenv install fails if subdirectory cannot be traversed_](https://github.com/pypa/pipenv/issues/4906)
